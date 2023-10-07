@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "213bee85f02134ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dffa71c14d0b153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a52b823e518fa5a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c03602272e9f3d60",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4749ac27c25df20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b34386df380e7d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0a55b8e8036f29e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bdb0ae9c1515f9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 431.51103591918945
+  },
+  "right": {
+    "id": "b2801b5cf9423ab7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b927df137a24ae30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a45a997719a7eac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85a817b3128100cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70623d1e50532f2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "99cd3faf35cee672",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "logic.md"
+              }
+            }
+          },
+          {
+            "id": "e433334d5b7e48cf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "9b9bd95d5b90b2fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "logic.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "canvas:Создать новый холст": true,
+      "command-palette:Открыть палитру команд": false,
+      "graph:Граф": false,
+      "templates:Вставить шаблон": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1b34386df380e7d1",
+  "lastOpenFiles": [
+    "logic.md",
+    "programming/programming_languages/python/python_core.md",
+    "programming/programming_languages/python/python.md",
+    "programming/programming_languages/python/python_project_structure_and_layout.md",
+    "programming/programming_languages/python/libraries/python_libraries.md",
+    "programming/programming_languages/python/libraries/web_development/django.md",
+    "programming/programming_languages/python/libraries/web_development/web_development.md",
+    "programming/programming_languages/python/libraries/web_development",
+    "programming/programming_languages/python/libraries/web_development",
+    "().md",
+    "programming/programming_languages/python/libraries",
+    "programming/programming_languages/python",
+    "test.md",
+    "Без названия.canvas",
+    "programming/programming_languages/Python/attachments/xzc.excalidraw.md",
+    "programming/programming_languages/Python/Python core.md",
+    "programming/programming_languages/Python/attachments",
+    "programming/programming_languages/Python/Python core сб.05.39.38.excalidraw.md",
+    "programming/programming_languages/Python/Python core сб.05.37.49.excalidraw.md",
+    "assets/test.md",
+    "assets",
+    "Excalidraw/Drawing 2023-10-07 17.28.48.excalidraw.md",
+    "Excalidraw",
+    "programming/programming_languages/python",
+    "programming/programming_languages",
+    "programming",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Python.md"
+  ]
+}
