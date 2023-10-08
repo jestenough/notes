@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6dffa71c14d0b153",
+        "id": "c9eb0fc68cbaca5b",
         "type": "tabs",
         "children": [
           {
-            "id": "a52b823e518fa5a1",
+            "id": "bb0feaf71a2c8912",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "logic.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,16 +136,15 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "logic.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,36 +157,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b34386df380e7d1",
+  "active": "bb0feaf71a2c8912",
   "lastOpenFiles": [
+    "computer_science/programming/programming_languages/golang/golang.md",
+    "computer_science/programming/programming_languages/golang/golang_core.md",
+    "computer_science/hardware/ssd.md",
+    "computer_science/programming/programming_languages/golang",
+    "computer_science/web/browsers/firefox.md",
+    "computer_science/programming/programming_languages/python/libraries/web_development/web_development.md",
+    "computer_science/programming/programming_languages/python/libraries/web_development/django.md",
+    "computer_science/programming/programming_languages/python/libraries/python_libraries.md",
+    "computer_science/programming/programming_languages/python/python_project_structure_and_layout.md",
+    "computer_science/programming/programming_languages/python/python.md",
+    "computer_science/programming/programming_languages/python/python_core.md",
+    "computer_science/os/linux/linux.md",
+    "computer_science/hardware",
+    "computer_science/web/browsers",
+    "computer_science/web",
+    "computer_science/programming/version_control/git.md",
+    "computer_science/os/linux/distro/fedora.md",
+    "computer_science/os/linux/distro",
+    "computer_science/os/linux",
+    "computer_science/os/containers/docker.md",
+    "computer_science/programming/version_control",
+    "tools/zotero.md",
+    "tools",
+    "computer_science/os/containers",
+    "computer_science/os",
     "logic.md",
-    "programming/programming_languages/python/python_core.md",
-    "programming/programming_languages/python/python.md",
-    "programming/programming_languages/python/python_project_structure_and_layout.md",
-    "programming/programming_languages/python/libraries/python_libraries.md",
-    "programming/programming_languages/python/libraries/web_development/django.md",
-    "programming/programming_languages/python/libraries/web_development/web_development.md",
-    "programming/programming_languages/python/libraries/web_development",
-    "programming/programming_languages/python/libraries/web_development",
     "().md",
-    "programming/programming_languages/python/libraries",
-    "programming/programming_languages/python",
     "test.md",
     "Без названия.canvas",
     "programming/programming_languages/Python/attachments/xzc.excalidraw.md",
     "programming/programming_languages/Python/Python core.md",
-    "programming/programming_languages/Python/attachments",
     "programming/programming_languages/Python/Python core сб.05.39.38.excalidraw.md",
     "programming/programming_languages/Python/Python core сб.05.37.49.excalidraw.md",
     "assets/test.md",
-    "assets",
     "Excalidraw/Drawing 2023-10-07 17.28.48.excalidraw.md",
-    "Excalidraw",
-    "programming/programming_languages/python",
-    "programming/programming_languages",
-    "programming",
     "Untitled.md",
-    "Untitled 1.md",
-    "Python.md"
+    "Untitled 1.md"
   ]
 }

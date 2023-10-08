@@ -94,10 +94,25 @@ INSTALLED_APPS += ['debug_toolbar', ]
 
 ### Naming convention
 
-|Entity|Description|
-|---|---|
-|App|App name its like a module that means it should have short, all-lowercase name. Underscores can be used in the module name if it improves readability. Name Django apps plural|
-|Model|Singular nouns: for model naming, e.g.: Book, Paper, Article, etc. For model’s attributes use snake_case. E.g. first_name, last_name. For related name use plural in a One-to-Many or Many-to-Many relationship. Name the attribute of a One-to-Many relationship singular. Name the attribute of a Many-to-Many relationship plural. Note: do not add model names to fields if there is no need to do, e.g. if table User has field user_status - you should rename the field into status |
+
+#### App name
+
+Its like a module that means it should have **short**, **all-lowercase name**. Underscores can be used in the module name if it improves readability. 
+Name Django apps **plural** (if possible)
+Examples: polls, users, orders
+
+#### Model
+
+- *naming*: singular nouns, e.g.: Book, Paper, Article, etc.
+- *attributes*: use snake_case, singular for One-to-Many relationship, plural for Many-to-Many.
+- *related name*: plural in a One-to-Many or Many-to-Many relationship
+
+> dont add model names to fields if there is no need to do, e.g. if table User has field user_status - you should rename the field into status
+
+#### Urls
+
+todo
+
 
 ### Model
 
@@ -107,7 +122,7 @@ _The order of model inner classes and standard methods should be as follows (not
 2. _All database fields_
 3. _Custom manager attributes_
 4. _class Meta_
-5. _def **str**()_
+5. _def __str__()_
 6. _def save()_
 7. _Any custom methods_
 8. _**WHAT ABOUT PROPERTY ??????**_
@@ -129,10 +144,10 @@ _The order of model inner classes and standard methods should be as follows (not
 
 Recall that `unittest.TestCase` provides two setup hooks:
 
-- `s*etUpClass()` -* a class method that runs once at the start of the test case class
-- _`setUp()` -_ an instance method that runs at the start of each test
+- `setUpClass()` - a class method that runs once at the start of the test case class
+- `setUp()` - an instance method that runs at the start of each test
 
-Django’s _TestCase_ adds another hook: the class method `setUpTestData**()**`. Django runs this as part of the base `setUpClass()`, inside a class-level database `transaction.setUpTestData()` can create data that’s used in all tests, with changes rolled back between tests.
+Django's *TestCase* adds another hook: the class method `setUpTestData()`. Django runs this as part of the base `setUpClass()`, inside a class-level database `transaction.setUpTestData()` can create data that’s used in all tests, with changes rolled back between tests.
 
 ### TestCase Classes
 
@@ -158,12 +173,12 @@ from example.core.models import Author, Book
 class ExampleTestMixin:
     def make_author(self, *, name="Leo Tolstoy"):
         author, _created = Author.objects.get_or_create(name=name)
-				return author
+		return author
 	
-		def make_book(self, *, author=None, title="War and Peace"):
-			if author is None:
-				author = self.make_author()
-				return Book.objects.create(author=author, title=title)
+	def make_book(self, *, author=None, title="War and Peace"):
+		if author is None:
+			author = self.make_author()
+			return Book.objects.create(author=author, title=title)
 ```
 
 ### Unit Tests for a View
