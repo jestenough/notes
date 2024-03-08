@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c9eb0fc68cbaca5b",
+        "id": "7cc503c11bdaeb2f",
         "type": "tabs",
         "children": [
           {
-            "id": "bb0feaf71a2c8912",
+            "id": "360d22161287db93",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "assets/drawing-python-exceptions-ordering.excalidraw.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/drawing-python-exceptions-ordering.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/drawing-python-exceptions-ordering.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "assets/drawing-python-exceptions-ordering.excalidraw.md"
+              }
             }
           },
           {
@@ -127,7 +133,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -136,10 +144,13 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "assets/drawing-python-exceptions-ordering.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,44 +168,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb0feaf71a2c8912",
+  "active": "360d22161287db93",
   "lastOpenFiles": [
-    "computer_science/programming/programming_languages/golang/golang.md",
-    "computer_science/programming/programming_languages/golang/golang_core.md",
-    "computer_science/hardware/ssd.md",
-    "computer_science/programming/programming_languages/golang",
-    "computer_science/web/browsers/firefox.md",
-    "computer_science/programming/programming_languages/python/libraries/web_development/web_development.md",
-    "computer_science/programming/programming_languages/python/libraries/web_development/django.md",
-    "computer_science/programming/programming_languages/python/libraries/python_libraries.md",
+    "computer_science/attachments/Pasted image 20240306232321.png",
+    "assets/drawing-python-exceptions-ordering.excalidraw.md",
+    "assets/drawing-вс.03.14.14.excalidraw.md",
+    "assets/drawing-вс.03.14.14_0.excalidraw.md",
+    "assets/drawing-вс.03.12.40.excalidraw.md",
+    "assets/drawing-вс.03.04.13.excalidraw.md",
+    "computer_science/programming/programming_languages/python/python_core.md",
     "computer_science/programming/programming_languages/python/python_project_structure_and_layout.md",
     "computer_science/programming/programming_languages/python/python.md",
-    "computer_science/programming/programming_languages/python/python_core.md",
-    "computer_science/os/linux/linux.md",
-    "computer_science/hardware",
-    "computer_science/web/browsers",
-    "computer_science/web",
+    "computer_science/programming/programming_languages/python/attachments/python_data_store_structures_pic.png",
+    "computer_science/web/seo.md",
+    "music/composers/composers.md",
+    "computer_science/web/web.md",
+    "computer_science/attachments",
+    "computer_science/programming/version_control/version_control.md",
     "computer_science/programming/version_control/git.md",
-    "computer_science/os/linux/distro/fedora.md",
-    "computer_science/os/linux/distro",
-    "computer_science/os/linux",
-    "computer_science/os/containers/docker.md",
-    "computer_science/programming/version_control",
-    "tools/zotero.md",
-    "tools",
-    "computer_science/os/containers",
-    "computer_science/os",
-    "logic.md",
-    "().md",
-    "test.md",
-    "Без названия.canvas",
-    "programming/programming_languages/Python/attachments/xzc.excalidraw.md",
-    "programming/programming_languages/Python/Python core.md",
-    "programming/programming_languages/Python/Python core сб.05.39.38.excalidraw.md",
-    "programming/programming_languages/Python/Python core сб.05.37.49.excalidraw.md",
-    "assets/test.md",
-    "Excalidraw/Drawing 2023-10-07 17.28.48.excalidraw.md",
-    "Untitled.md",
-    "Untitled 1.md"
+    "computer_science/computer_science.md",
+    "computer_science/web/browsers/firefox.md",
+    "computer_science/web/browsers/browsers.md",
+    "computer_science/programming/programming_languages/golang/golang_core.md",
+    "computer_science/programming/programming.md",
+    "computer_science/programming/programming_languages/programming_languages.md",
+    "computer_science/os/os.md",
+    "computer_science/os/containers/containers.md",
+    "computer_science/networking/networking.md",
+    "computer_science/hardware/hardware.md",
+    "music/composers",
+    "music",
+    "computer_science/programming/programming_languages/python/attachments/Pasted image 20231125133437.png",
+    "computer_science/programming/programming_languages/python/attachments",
+    "computer_science/os/linux/linux.md",
+    "computer_science/programming/programming_languages/sql/sql_recommendations.md",
+    "assets",
+    "computer_science/programming/programming_languages/sql",
+    "computer_science/database",
+    "computer_science/programming/programming_languages/python/libraries/packaging_and_dependency",
+    "computer_science/networking/p2p",
+    "computer_science/networking",
+    "Без названия.canvas"
   ]
 }
